@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thurein Htet</h1>
 <h3 align="center">Full-stack developer experienced in Django,Spring Boot, Node.js,Flutter,React,React Native and modern cloud technologies (AWS, Docker, Kubernetes)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarvis-vision4" alt="thureinh-cloud" /></a> </p>
+<p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
