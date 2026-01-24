@@ -4,6 +4,18 @@
 <p align="left">  </p>
 
 <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="mailto:thureinh64@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-thureinh64%40gmail.com-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thurein-htet-130570199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thurein%20Htet-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 <p align="left">
 </p>
 
