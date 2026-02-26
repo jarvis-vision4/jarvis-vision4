@@ -24,4 +24,4 @@
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-vision4&hide_progress=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-vision4"/>
